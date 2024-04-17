@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MotionTrackApp</string>
+    <string name="passwordsTable">USERS</string>
+</resources>
